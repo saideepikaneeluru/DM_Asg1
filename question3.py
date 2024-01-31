@@ -19,7 +19,7 @@ def question3_5():
     return answer
 
 def question3_6():
-    answer = ['continuous', 'qualitative', 'ordinal']
+    answer = ['continuous', 'qualitative', 'ratio']
     return answer
 
 def question3_7():
