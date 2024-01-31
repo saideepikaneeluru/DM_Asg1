@@ -3,7 +3,7 @@ def question10_1():
     return answer
 
 def question10_2():
-    answer = False
+    answer = True
     return answer
 
 def question10_3():
