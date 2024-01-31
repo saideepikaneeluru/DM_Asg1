@@ -1,20 +1,19 @@
 def question9_1():
-    answer = 'smc'
+    answer = 'SMC'
     return answer
 
 def question9_2():
-    answer = 'jaccard'
+    answer = 'Jaccard'
     return answer
 
 def question9_3():
-    answer = 'jaccard'
+    answer = 'Euclidean'
     return answer 
 
 def question9_4():
-    answer = 'euclidean'
+    answer = 'Euclidean'
     return answer 
 
 def question9_5():
-    answer = 'cosine similarity'
-    return answer 
-
+    answer = 'Cosine Similarity'
+    return answer
